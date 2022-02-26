@@ -18,3 +18,7 @@ Este análisis fue realizado con las siguientes herramientas:
 * Matplotlib
 * Seaborn
 
+Este Repositorio contiene:
+
+* El Archivo csv a Analizar (water_potability.csv)
+* El Archivo .ipynb del analisis.
